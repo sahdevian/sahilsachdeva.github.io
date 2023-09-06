@@ -64,7 +64,7 @@ body {
       float:left;
       display:block;
       background:url("tabright.gif") no-repeat right top;
-      padding:5px 15px 4px 6px;
+      padding:5px 15px 4px 0px;
       color:black;
       }
     /* Commented Backslash Hack hides rule from IE5-Mac \*/
