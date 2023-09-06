@@ -19,8 +19,8 @@ body {
     background-color: white}
 	ul.navbar li {
     background: white;
-    margin: 0.5em 0;
-    padding: 0.3em;
+    margin: -10em 0;
+    padding: -10em;
     border-right: 1em solid black }
   ul.navbar a {
     text-decoration: none }
