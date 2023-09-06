@@ -74,8 +74,8 @@ body {
       color:#FF9834;
       }
     #tabs a:hover {
-      background-position:0% -42px;
+      background-position:0% 0px;
       }
     #tabs a:hover span {
-      background-position:100% -42px;
+      background-position:100% 0px;
       }
