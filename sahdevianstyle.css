@@ -1,5 +1,5 @@
 body {
-	padding-left: -10px;
+	padding-left: 0;
     font-family: "Times New Roman",
           Times, serif;
 		color: #000000;
@@ -10,7 +10,7 @@ body {
     margin: 0;
     position: absolute;
     top: 5em;
-    left: 18em;
+    left: 0em;
     width: 9em }
 	h2 {
     font-family: "Times New Roman",
