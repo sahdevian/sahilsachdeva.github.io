@@ -1,16 +1,16 @@
 body {
-	padding-left: -10em;
+	padding-left: 0;
     font-family: "Times New Roman",
           Times, serif;
 		color: #000000;
     background-color: white }
 	ul.navbar {
 		list-style-type: none;
-    padding: -10em;
-    margin: -10em;
+    padding: 0;
+    margin: 0;
     position: absolute;
     top: 5em;
-    left: -10em;
+    left: 18em;
     width: 9em }
 	h2 {
     font-family: "Times New Roman",
@@ -19,8 +19,8 @@ body {
     background-color: white}
 	ul.navbar li {
     background: white;
-    margin: -10em 0;
-    padding: -10em;
+    margin: 0.5em 0;
+    padding: 0.3em;
     border-right: 1em solid black }
   ul.navbar a {
     text-decoration: none }
@@ -29,8 +29,8 @@ body {
   a:visited {
     color: #009999 }
 	address {
-    margin-top: -10em;
-    padding-top: -10em;
+    margin-top: 1em;
+    padding-top: 1em;
     border-top: thin dotted }
 		/*- Menu Tabs--------------------------- */ 
 
@@ -45,7 +45,7 @@ body {
       }
     #tabs ul {
 	margin:0;
-	padding:10px 10px 0 0px;
+	padding:10px 10px 0 50px;
 	list-style:none;
       }
     #tabs li {
@@ -57,14 +57,14 @@ body {
       float:left;
       background:url("tableft.gif") no-repeat left top;
       margin:0;
-      padding:0 0 0 0;
+      padding:0 0 0 4px;
       text-decoration:none;
       }
     #tabs a span {
       float:left;
       display:block;
       background:url("tabright.gif") no-repeat right top;
-      padding:5px 15px 4px 0px;
+      padding:5px 15px 4px 6px;
       color:black;
       }
     /* Commented Backslash Hack hides rule from IE5-Mac \*/
@@ -74,8 +74,8 @@ body {
       color:#FF9834;
       }
     #tabs a:hover {
-      background-position:0% 0px;
+      background-position:0% -42px;
       }
     #tabs a:hover span {
-      background-position:100% 0px;
+      background-position:100% -42px;
       }
