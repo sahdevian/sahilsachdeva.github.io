@@ -45,7 +45,7 @@ body {
       }
     #tabs ul {
 	margin:0;
-	padding:10px 10px 0 50px;
+	padding:10px 10px 0 0px;
 	list-style:none;
       }
     #tabs li {
@@ -74,8 +74,8 @@ body {
       color:#FF9834;
       }
     #tabs a:hover {
-      background-position:0% 0px;
+      background-position:0% -42px;
       }
     #tabs a:hover span {
-      background-position:100% 0px;
+      background-position:100% -42px;
       }
