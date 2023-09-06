@@ -57,7 +57,7 @@ body {
       float:left;
       background:url("tableft.gif") no-repeat left top;
       margin:0;
-      padding:0 0 0 4px;
+      padding:0 0 0 0px;
       text-decoration:none;
       }
     #tabs a span {
